@@ -1,5 +1,13 @@
-# XXD Panel 061 · Original prompt
+# XXD Panel 061 · Original prompt translations
 
-- [简体中文原文 · 运行时唯一审美权威](zh-CN.md)
+Choose a language:
 
-当前只收录用户提供的中文原文。未提供或核验的翻译不会被伪造；运行时始终使用中文原文正文。
+- [简体中文 · Canonical original](zh-CN.md)
+- [English](en.md)
+- [日本語](ja.md)
+- [한국어](ko.md)
+- [العربية](ar.md)
+
+`zh-CN.md` preserves Xiaoxiaodong's original wording and is the sole creative and aesthetic authority used at runtime. The other files are faithful reading translations for international readers, documentation, and sharing; they do not replace or silently modify the canonical prompt.
+
+All five files follow the same paragraph order so readers can compare them directly.
