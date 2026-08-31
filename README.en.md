@@ -49,15 +49,16 @@ These four works reuse the corresponding independent sources and are regenerated
 <!-- xxd-human-intro:start -->
 ## Where this Panel fits — and what it solves
 
-When a photograph needs to become a poster, cover, social asset, or wallpaper, the real design problem is rarely a simple change of style. The challenge is to redesign it while preserving identity, key relationships, mood, and recognisability.
+In a travel, gathering, or everyday photograph, there is rarely just one subject you cannot bear to leave out. A gesture, a small object, a piece of the setting, and the relationship between people can all be part of the memory. A conventional single-subject illustration loses these clues, while an evenly divided collage can feel like an inventory of assets.
 
-**Panel 061** is suited to work that must retain the source's essential content while pursuing this visual direction: **Reorganize photos into scattered and echoing visual memory fragments**. It begins with intended use and desired outcome; layout, size, text, and delivery format follow from those needs.
+**Panel 061** reorganises the 3–6 most meaningful clues into memory fragments that echo one another. It preserves the photograph's central relationships, then uses a light handmade texture and generous negative space to create a clear narrative path, making the result feel like an edited page from a private visual diary.
 
 ### Use it when
 
-- **Content must remain anchored:** people, objects, actions, and relationships should not be replaced by an unrelated template.
-- **The image needs stronger expression:** you want a clearer editorial language, artistic treatment, or narrative focus.
-- **Delivery must stay flexible:** one source needs comparison layouts, design-only artwork, multiple ratios, or a wallpaper set.
+- **One photograph contains several details worth keeping:** people, gestures, objects, and environmental clues need to tell the same memory together.
+- **You want a collage without an asset-board look:** fragments need hierarchy, direction, and visual echoes rather than equal compartments or random scattering.
+- **You like a gentle handmade feel but do not want it to look childish:** cut paper, gouache, pastel, and Riso textures are held together by professional spacing and editorial order.
+- **You need flexible delivery:** it supports top–bottom and left–right comparisons, design-only artwork, multiple ratios, four-device wallpaper sets, and batch processing of image folders.
 
 ### A simple way to begin
 
@@ -65,7 +66,7 @@ You do not need to review every option first. Send your Agent an image and say:
 
 > Use XXD Panel 061 on this image and recommend the best layout and size first.
 
-Review the samples below if you want to confirm the visual direction first. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
+Use the samples above to confirm the visual direction. When you are ready, continue to [Get started](#get-started). Full modes, sizes, and parameters remain available in the expandable reference.
 <!-- xxd-human-intro:end -->
 
 ## Original prompt · Five languages
