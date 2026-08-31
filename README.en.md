@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 061
+# 🦁 XXD Panel 061｜Visual Memory Notebook
 
 ### Reorganize photos into scattered and echoing visual memory fragments
 

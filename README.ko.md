@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 061
+# 🦁 XXD Panel 061｜시각 기억 노트
 
 ### 사진을 흩어지고 울리는 시각적 기억 조각으로 재구성합니다
 

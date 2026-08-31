@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 061
+# 🦁 XXD Panel 061｜视觉记忆簿
 
 ### 把照片重组为散落而彼此呼应的视觉记忆片段
 

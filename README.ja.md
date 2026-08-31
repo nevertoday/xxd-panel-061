@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🦁 XXD Panel 061
+# 🦁 XXD Panel 061｜ビジュアル記憶帳
 
 ### 写真を散在してエコーする視覚的記憶の断片に再編成する
 
