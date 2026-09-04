@@ -4,19 +4,15 @@
 
 ### 사진을 흩어지고 울리는 시각적 기억 조각으로 재구성합니다
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
-[![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
-[![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
-
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <strong>한국어</strong> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-## 원본 X 예시 예약 슬롯
+## 예시 갤러리
 
-검증 가능한 원본 X 예시나 출처가 제공되지 않았으므로 생성물을 원본처럼 제시하지 않고 `sample-01`–`04`를 비워 둡니다.
+검증 가능한 원본 X 예시나 출처가 제공되지 않았으므로 `sample-01`–`sample-04`는 표시하지 않습니다. 아래 여덟 작품은 이 Panel이 자체 원본 프롬프트에 따라 독립적으로 생성했으며 다른 번호의 작품을 재사용하지 않았습니다.
 
-## 추가 16:9 좌우 비교 예시
+## 16:9 가로형 좌우 구성 예시
 
 네 장 모두 독립적으로 생성한 완전한 캔버스입니다. 왼쪽은 현실 사진, 오른쪽은 이 Panel의 원본 프롬프트가 이끄는 디자인 변환입니다.
 
@@ -31,7 +27,7 @@
   </tr>
 </table>
 
-## 추가 3:4 상하 비교 예시
+## 3:4 세로형 상하 구성 예시
 
 같은 네 개의 독립 소스를 완전한 3:4 캔버스로 다시 구성했습니다. 위에는 현실 사진, 아래에는 이 Panel의 디자인 변환이 놓입니다.
 
@@ -281,7 +277,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 전체 사양: [Skill 워크플로](SKILL.md) · [원본 스타일 자료](references/original-prompt/zh-CN.md) · [영문 런타임 어댑터](references/xxd-panel-061-prompt.en.md) · [중문 런타임 어댑터](references/xxd-panel-061-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
-## XXD Panel 전체 프로젝트 목록
+## XXD Panel 역대 디렉터리
 
 아래 표는 001부터 060까지 60개 Panel을 빠짐없이 보존한 이전 목록입니다. 각 프로젝트는 독립된 원본 프롬프트와 미적 논리를 유지합니다. 현재 프로젝트는 060 이후 번호이므로 이 표에 끼워 넣지 않고 위의 프로젝트 링크로 안내합니다.
 
@@ -365,7 +361,7 @@ CNY 100을 한 번 결제하면 이 시리즈의 장군 총지휘 Skill(`xxd-pan
 | 등급 | Skill | 역할 |
 |---|---|---|
 | **장군급** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 사용 가능한 번호형 Skills 탐지, 이미지·주제·용도별 추천, 번호 지정 파견, 동일 입력의 여러 스타일 시안, 이미지 폴더의 일괄 배정과 개별 작업 파견. |
-| **병사급** | `xxd-panel-NNN` (현재 001–061) | 각 번호가 고유한 원본 프롬프트와 미학만 실행해 장군이 배정한 하나의 작업을 완성합니다. |
+| **병사급** | `xxd-panel-NNN` (현재 001–112) | 각 번호가 고유한 원본 프롬프트와 미학만 실행해 장군이 배정한 하나의 작업을 완성합니다. |
 
 장군 Skill은 번호형 Skills 전체 부대의 지휘 본부입니다. 구매 후 바로 사용할 수 있으며 설치, 버전 업데이트, 병력 구성, 파견 흐름에 대한 도움을 받을 수 있습니다. 장군은 조직과 파견만 담당하며 병사의 원본 미학을 다시 쓰거나 섞거나 덮어쓰지 않습니다. 각 결과물은 선택된 병사 Skill이 독립적으로 완성합니다.
 <!-- xxd-panel-command-system:end -->

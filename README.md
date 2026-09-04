@@ -4,19 +4,15 @@
 
 ### 把照片重组为散落而彼此呼应的视觉记忆片段
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
-[![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
-[![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
-
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<strong>简体中文</strong> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-## 原始 X 样张位
+## 样张展示
 
-原始 X 样张仍待补充，因此 `sample-01`–`sample-04` 继续保留；README 已展示本 Panel 独立生成的横版与竖版扩展样张，不借用其他编号作品。
+原始 X 样张及其可核验出处尚未提供，因此 `sample-01`–`sample-04` 暂不展示；下方八张为本 Panel 依据自身原始提示词独立生成的样张，不借用其他编号作品。
 
-## 新增 16:9 左右双联样张
+## 16:9 左右双联样张
 
 四张横版均为独立完整画布生成：左侧保留现实摄影，右侧使用本 Panel 的原始提示词完成设计转译。
 
@@ -31,7 +27,7 @@
   </tr>
 </table>
 
-## 新增 3:4 上下双联样张
+## 3:4 上下双联样张
 
 以下四张复用对应的独立素材，重新生成完整 3:4 画布；上部是现实摄影，下部是本 Panel 的设计转译。
 
@@ -281,7 +277,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 完整规格: [Skill 工作流](SKILL.md) · [原始风格档案](references/original-prompt/zh-CN.md) · [英文运行适配器](references/xxd-panel-061-prompt.en.md) · [中文运行适配器](references/xxd-panel-061-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
-## XXD Panel 全系列项目
+## XXD Panel 历史目录
 
 下表保留 001–060 共 60 个 Panel 的连续历史目录，每个项目都有独立的原始提示词与审美逻辑。当前项目编号高于 060，因此不在这份历史目录中；请使用上方本项目链接。
 
@@ -369,7 +365,7 @@ XXD 是小小东品牌名的缩写，本项目由小小东创建并维护： [@x
 | 层级 | Skill | 负责什么 |
 |---|---|---|
 | **将军级** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 识别当前可用的编号 Skills；按图片、主题和用途推荐；按编号点将；组织同图多风格试稿；为图片文件夹批量分配并逐项派发。 |
-| **士兵级** | `xxd-panel-NNN`（当前 001–061） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
+| **士兵级** | `xxd-panel-NNN`（当前 001–112） | 每个编号只执行自己独立的原始提示词与审美，把将军派发的单个任务完成为成品。 |
 
 将军 Skill 是整个编号 Skills 队伍的总控入口。购买后即可使用，并获得安装、版本更新、队伍配置和调度方式的答疑。将军只负责组织与派发，不会改写、混合或覆盖士兵的原始美学；每张成品仍由被选中的士兵 Skill 独立完成。
 <!-- xxd-panel-command-system:end -->

@@ -345,7 +345,7 @@ When a result fails, retry only the failed source-brief or runtime requirement. 
 
 ## Runtime adapters
 
-- `references/original-prompt/README.md` — index for the canonical Chinese original; no unverified reading translations are bundled
+- `references/original-prompt/README.md` — index for the canonical Chinese original and four faithful reading translations; only the Chinese original is used at runtime
 - `references/runtime-preferences.md` — safe cross-invocation reuse, edit, fresh-start, and opt-out contract
 - `references/xxd-panel-061-prompt.zh-CN.md`
 - `references/xxd-panel-061-prompt.en.md`

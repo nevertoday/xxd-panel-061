@@ -4,19 +4,15 @@
 
 ### 写真を散在してエコーする視覚的記憶の断片に再編成する
 
-[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
-[![Modes](https://img.shields.io/badge/Modes-4-EF805E?style=flat-square)](#)
-[![Output](https://img.shields.io/badge/Output-PNG-4AA1AE?style=flat-square)](#)
-
-<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <a href="README.ja.md">日本語</a> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
 
 </div>
 
-## オリジナル X 作例の予約枠
+## 作例展示
 
-検証可能なオリジナル X 作例と出典が未提供のため、生成画像を原作例として見せず、`sample-01`〜`04` は予約したままです。
+検証可能なオリジナル X 作例と出典が未提供のため、`sample-01`〜`sample-04` は掲載していません。以下の8点は、この Panel が自身の原文プロンプトに基づいて個別に生成したもので、別番号の作品は流用していません。
 
-## 追加の 16:9 左右比較作例
+## 16:9 横長・左右構成の作例
 
 4点とも独立した完全キャンバスです。左に現実の写真、右にこの Panel の原文プロンプトによるデザイン変換を配置しています。
 
@@ -31,7 +27,7 @@
   </tr>
 </table>
 
-## 追加の 3:4 上下比較作例
+## 3:4 縦長・上下構成の作例
 
 対応する4つの素材を使い、完全な 3:4 キャンバスとして再生成しました。上に現実の写真、下にこの Panel のデザイン変換を置いています。
 
@@ -281,7 +277,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-061-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-061-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
-## XXD Panel 全プロジェクト一覧
+## XXD Panel 歴代ディレクトリ
 
 下表は 001 から 060 まで、全60個の Panel を欠番なく収録した履歴一覧です。各プロジェクトは独立した原文プロンプトと美的ロジックを保持します。現在のプロジェクトは060より後の番号なので、この表には差し込まず、上部のリンクから参照してください。
 
@@ -365,7 +361,7 @@ CNY 100 の一回払いで、このシリーズの将軍総指揮 Skill（`xxd-p
 | 階級 | Skill | 担当 |
 |---|---|---|
 | **将軍級** | [`xxd-panel-all`](https://github.com/nevertoday/xxd-panel-all) | 利用可能な番号付き Skills の検出、画像・テーマ・用途からの推薦、番号指定の派遣、同一素材の複数スタイル試作、フォルダー画像の一括割り当てと個別派遣。 |
-| **兵士級** | `xxd-panel-NNN`（現在 001–061） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
+| **兵士級** | `xxd-panel-NNN`（現在 001–112） | 各番号が固有の原文プロンプトと美学だけを実行し、将軍から渡された一つの仕事を完成させます。 |
 
 将軍 Skill は、番号付き Skills 全隊の司令塔です。購入後すぐに利用でき、インストール、更新、編成、派遣方法についてサポートを受けられます。将軍は整理と派遣だけを担当し、兵士の原文美学を改変・混合・上書きしません。各完成作品は、選ばれた兵士 Skill が独立して制作します。
 <!-- xxd-panel-command-system:end -->
