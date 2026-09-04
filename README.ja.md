@@ -283,7 +283,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全プロジェクト一覧
 
-60 個の Panel は、それぞれ独立した原文プロンプトと美的ロジックを保持しています。全プロジェクトの URL と主要なスタイル特性を一覧にし、現在のプロジェクトを太字で示します。
+下表は 001 から 060 まで、全60個の Panel を欠番なく収録した履歴一覧です。各プロジェクトは独立した原文プロンプトと美的ロジックを保持します。現在のプロジェクトは060より後の番号なので、この表には差し込まず、上部のリンクから参照してください。
 
 | プロジェクト | スタイル特性 |
 |---|---|
@@ -346,7 +346,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-057](https://github.com/nevertoday/xxd-panel-057) | 幾何構成 · インテリジェント・モザイク · 建築図解 · アートマップ · 暖冷の色面 |
 | [xxd-panel-058](https://github.com/nevertoday/xxd-panel-058) | 潜台詞の読解 · 幾何学的ミニマリズム · コンセプト風景 · 柔らかな手仕事感 · 淡い余白 |
 | [xxd-panel-059](https://github.com/nevertoday/xxd-panel-059) | 手描きの物語 · 童心の比喩 · 温かな紙感 · ほのかなユーモア · 詩的な傍白 |
-| **[xxd-panel-061](https://github.com/nevertoday/xxd-panel-061)** | 黒い主形 · 巨大な余白 · 網点の消散 · 禅的思考 · 思考の断片 |
+| [xxd-panel-060](https://github.com/nevertoday/xxd-panel-060) | 黒い主形 · 巨大な余白 · 網点消散 · 禅的思考 · 思索の断片 |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD について

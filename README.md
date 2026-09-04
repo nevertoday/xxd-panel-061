@@ -283,7 +283,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 全系列项目
 
-60 个 Panel 各自保留独立的原始提示词与审美逻辑。下面列出全部项目地址和核心风格特点；当前项目以粗体标出。
+下表保留 001–060 共 60 个 Panel 的连续历史目录，每个项目都有独立的原始提示词与审美逻辑。当前项目编号高于 060，因此不在这份历史目录中；请使用上方本项目链接。
 
 | 项目地址 | 风格特点 |
 |---|---|
@@ -346,7 +346,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-057](https://github.com/nevertoday/xxd-panel-057) | 几何构成 · 智能马赛克 · 建筑图解 · 艺术地图 · 暖冷色块 |
 | [xxd-panel-058](https://github.com/nevertoday/xxd-panel-058) | 潜台词解读 · 几何极简 · 观念景观 · 柔和手工质感 · 淡色留白 |
 | [xxd-panel-059](https://github.com/nevertoday/xxd-panel-059) | 手绘叙事 · 童真隐喻 · 温暖纸感 · 轻微诙谐 · 诗性旁白 |
-| **[xxd-panel-061](https://github.com/nevertoday/xxd-panel-061)** | 黑色主形 · 极大留白 · 网点消散 · 禅意思考 · 哲思碎片 |
+| [xxd-panel-060](https://github.com/nevertoday/xxd-panel-060) | 黑色主形 · 极大留白 · 网点消散 · 禅意思考 · 哲思碎片 |
 <!-- xxd-panel-catalog:end -->
 
 ## 关于 XXD

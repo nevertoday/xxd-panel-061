@@ -283,7 +283,7 @@ Full specifications: [Skill workflow](SKILL.md) · [source archive](references/o
 <!-- xxd-panel-catalog:start -->
 ## Complete XXD Panel catalog
 
-Each of the 60 Panels preserves its own original brief and aesthetic logic. The table lists every project address and its defining style characteristics; the current project is bold.
+The table preserves the continuous historical catalog of 60 Panels from 001 through 060, each with its own original brief and aesthetic logic. This project is numbered above 060 and is therefore linked above rather than inserted into this historical table.
 
 | Project | Style characteristics |
 |---|---|
@@ -346,7 +346,7 @@ Each of the 60 Panels preserves its own original brief and aesthetic logic. The 
 | [xxd-panel-057](https://github.com/nevertoday/xxd-panel-057) | GEOMETRIC COMPOSITION · INTELLIGENT MOSAIC · ARCHITECTURAL DIAGRAM · ART MAP · WARM–COOL FIELDS |
 | [xxd-panel-058](https://github.com/nevertoday/xxd-panel-058) | SUBTEXT READING · GEOMETRIC MINIMALISM · CONCEPTUAL LANDSCAPE · SOFT HANDMADE TEXTURE · PALE SPACE |
 | [xxd-panel-059](https://github.com/nevertoday/xxd-panel-059) | HAND-DRAWN STORYTELLING · CHILDLIKE METAPHOR · WARM PAPER · GENTLE HUMOUR · POETIC ASIDE |
-| **[xxd-panel-061](https://github.com/nevertoday/xxd-panel-061)** | BLACK PRIMARY FORM · IMMENSE NEGATIVE SPACE · HALFTONE DISSOLUTION · ZEN REFLECTION · FRAGMENTS OF THOUGHT |
+| [xxd-panel-060](https://github.com/nevertoday/xxd-panel-060) | BLACK PRIMARY FORM · IMMENSE NEGATIVE SPACE · HALFTONE DISSOLUTION · ZEN REFLECTION · FRAGMENTS OF THOUGHT |
 <!-- xxd-panel-catalog:end -->
 
 ## About XXD

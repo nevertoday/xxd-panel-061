@@ -283,7 +283,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## دليل مشاريع XXD Panel الكامل
 
-يحافظ كل مشروع من مشاريع Panel الـ60 على موجّهه الأصلي ومنطقه الجمالي المستقل. يعرض الجدول روابط جميع المشاريع وخصائص أسلوبها الأساسية، مع تمييز المشروع الحالي بخط عريض.
+يحفظ الجدول أدناه الفهرس التاريخي المتصل لـ60 مشروع Panel من 001 إلى 060، ولكل مشروع موجّهه الأصلي ومنطقه الجمالي المستقل. رقم المشروع الحالي أعلى من 060، لذلك لا يُدرج بدل أحد صفوف هذا الجدول ويمكن الوصول إليه من الرابط أعلاه.
 
 | المشروع | خصائص الأسلوب |
 |---|---|
@@ -346,7 +346,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-057](https://github.com/nevertoday/xxd-panel-057) | تكوين هندسي · فسيفساء ذكية · مخطط معماري · خريطة فنية · حقول لونية دافئة وباردة |
 | [xxd-panel-058](https://github.com/nevertoday/xxd-panel-058) | قراءة المعنى الضمني · بساطة هندسية · مشهد مفاهيمي · ملمس يدوي ناعم · فراغات فاتحة |
 | [xxd-panel-059](https://github.com/nevertoday/xxd-panel-059) | سرد مرسوم يدوياً · استعارة طفولية · ورق دافئ · فكاهة رقيقة · تعليق شاعري |
-| **[xxd-panel-061](https://github.com/nevertoday/xxd-panel-061)** | شكل أسود رئيسي · فراغ هائل · تلاشي هالف تون · تأمل زِنّي · شظايا فكر |
+| [xxd-panel-060](https://github.com/nevertoday/xxd-panel-060) | شكل أسود رئيسي · فراغ هائل · تلاشي هالف تون · تأمل زِنّي · شظايا فكر |
 <!-- xxd-panel-catalog:end -->
 
 ## عن XXD

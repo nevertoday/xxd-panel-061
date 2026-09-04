@@ -283,7 +283,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 전체 프로젝트 목록
 
-60개 Panel은 각각 독립된 원본 프롬프트와 미적 논리를 유지합니다. 아래 표에서 모든 프로젝트 주소와 핵심 스타일 특징을 확인할 수 있으며 현재 프로젝트는 굵게 표시됩니다.
+아래 표는 001부터 060까지 60개 Panel을 빠짐없이 보존한 이전 목록입니다. 각 프로젝트는 독립된 원본 프롬프트와 미적 논리를 유지합니다. 현재 프로젝트는 060 이후 번호이므로 이 표에 끼워 넣지 않고 위의 프로젝트 링크로 안내합니다.
 
 | 프로젝트 | 스타일 특징 |
 |---|---|
@@ -346,7 +346,7 @@ Use this photograph, ask me for the modes and copy setting, then generate fresh 
 | [xxd-panel-057](https://github.com/nevertoday/xxd-panel-057) | 기하 구성 · 지능형 모자이크 · 건축 도해 · 아트 맵 · 온냉 색면 |
 | [xxd-panel-058](https://github.com/nevertoday/xxd-panel-058) | 숨은 뜻 읽기 · 기하 미니멀리즘 · 개념 풍경 · 부드러운 수공 질감 · 옅은 여백 |
 | [xxd-panel-059](https://github.com/nevertoday/xxd-panel-059) | 손그림 서사 · 동심의 은유 · 따뜻한 종이 질감 · 가벼운 유머 · 시적인 방백 |
-| **[xxd-panel-061](https://github.com/nevertoday/xxd-panel-061)** | 검은 주도형 · 거대한 여백 · 망점 소멸 · 선적 사유 · 생각의 파편 |
+| [xxd-panel-060](https://github.com/nevertoday/xxd-panel-060) | 검은 주도형 · 거대한 여백 · 망점 소멸 · 선적 사유 · 생각의 파편 |
 <!-- xxd-panel-catalog:end -->
 
 ## XXD 소개
