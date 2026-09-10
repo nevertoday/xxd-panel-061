@@ -10,7 +10,17 @@
 
 ## 样张展示
 
-原始 X 样张及其可核验出处尚未提供，因此 `sample-01`–`sample-04` 暂不展示；下方八张为本 Panel 依据自身原始提示词独立生成的样张，不借用其他编号作品。
+本项目已发布 8 张实际样片，图片文件位于 `assets/examples/`。
+
+| sample-05 | sample-07 | sample-09 | sample-11 |
+| --- | --- | --- | --- |
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| sample-07 | sample-08 |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+| sample-09 | sample-10 |
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| sample-11 | sample-12 |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
 ## 16:9 左右双联样张
 
