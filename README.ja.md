@@ -98,6 +98,31 @@ Panel 061 は、写真から最も意味のある主題、行動、環境に関�
 - **写真領域とデザイン領域を伝える：** 上下・左右では写真を残す側と再設計する側を指定し、デザインのみ・壁紙では全画面を再設計すると伝えます。
 - **一枚で試してから一括処理する：** モード、比率、文字、言語を一枚で確認し、同じ設定をフォルダに適用します。比較しやすいよう一度に一つだけ変更します。
 
+## 使い始める
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-061.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-061" ~/.codex/skills/xxd-panel-061
+```
+
+`npx skills` でも直接インストールできます：
+
+```bash
+npx skills add https://github.com/nevertoday/xxd-panel-061 --skill xxd-panel-061
+```
+
+このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
+
+Claude Code では同じフォルダを次へリンクできます： `~/.claude/skills/xxd-panel-061`. インストール後に Agent セッションを再起動してください。
+
+```text
+$xxd-panel-061
+Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
+```
+
+完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-061-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-061-prompt.zh-CN.md)
+
 ## 原文プロンプトを唯一の美的基準にする
 
 `references/original-prompt/zh-CN.md` が、このプロジェクト唯一の創作・美的基準です。Skill は原文を要約・拡張せず、共通の配色計画、美的動機、タイトル、マイクロコピーを追加しません。色、素材、構図、余白、言葉、タイポグラフィは、GPT Image 2 が原文プロンプトの規則どおりに実行します。
@@ -241,31 +266,6 @@ GPT Image 2 を既定の第一候補とします。高忠実度の参照画像�
 適切な経路がない場合は、画像生成ツールを有効にするか API Key を提供するようユーザーに案内します。ユーザーが提供した認証情報は現在のタスクで利用できますが、返信やログに再表示・記録・開示しません。明示的な依頼がない限り、長期保存やプロバイダー、アカウント、課金、グローバル経路の設定変更も行いません。
 
 </details>
-
-## 使い始める
-
-```bash
-git clone https://github.com/nevertoday/xxd-panel-061.git
-mkdir -p ~/.codex/skills
-ln -s "$(pwd)/xxd-panel-061" ~/.codex/skills/xxd-panel-061
-```
-
-`npx skills` でも直接インストールできます：
-
-```bash
-npx skills add https://github.com/nevertoday/xxd-panel-061 --skill xxd-panel-061
-```
-
-このコマンドは GitHub からリポジトリを取得し、同名の Skill を現在の Agent にインストールします。ユーザー単位の Codex Skills ディレクトリへ入れる場合は、末尾に `--global --agent codex --yes` を追加してください。
-
-Claude Code では同じフォルダを次へリンクできます： `~/.claude/skills/xxd-panel-061`. インストール後に Agent セッションを再起動してください。
-
-```text
-$xxd-panel-061
-Use this photograph, ask me for the modes and copy setting, then generate fresh raster outputs.
-```
-
-完全仕様: [Skill ワークフロー](SKILL.md) · [原始スタイル資料](references/original-prompt/zh-CN.md) · [英語ランタイムアダプター](references/xxd-panel-061-prompt.en.md) · [中国語ランタイムアダプター](references/xxd-panel-061-prompt.zh-CN.md)
 
 <!-- xxd-panel-catalog:start -->
 ## XXD Panel 歴代ディレクトリ
