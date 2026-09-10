@@ -8,6 +8,36 @@
 
 </div>
 
+## 16:9 좌우 구성 예시
+
+서로 다른 원본 네 장으로 만든 16:9 완성 캔버스. 왼쪽은 실사, 오른쪽은 이 Panel 디자인, 정확히 50:50.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 061 Sample 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 061 Sample 6"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 061 Sample 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 061 Sample 8"></td>
+  </tr>
+</table>
+
+## 3:4 상하 구성 예시
+
+16:9 세트와 다른 원본 네 장으로 만든 3:4 상하 완성 캔버스. 위는 실사, 아래는 디자인, 정확히 50:50.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 061 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 061 additional top-bottom sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 061 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 061 additional top-bottom sample 4"></td>
+  </tr>
+</table>
+
 ## 예시 갤러리
 
 검증 가능한 원본 X 예시나 출처가 제공되지 않았으므로 `sample-01`–`sample-04`는 표시하지 않습니다. 아래 여덟 작품은 이 Panel이 자체 원본 프롬프트에 따라 독립적으로 생성했으며 다른 번호의 작품을 재사용하지 않았습니다.
