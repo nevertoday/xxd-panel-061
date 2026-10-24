@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-061
-description: "Create XXD Panel 061 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-061 or requests the exact Panel 061 style."
+description: "XXD Panel 061｜Visual Memory Notebook: reorganises a photo into three to six related memory fragments around one theme — the subject, a detail, a gesture, part of the setting or a symbol the photo suggests (sound as ripples, distance as a line, a feeling as a cloud) — in light, slightly naive cut paper, gouache, oil pastel and Risograph flat shapes, scattered with controlled improvisation over a near-white ground with wide whitespace, never in a grid. Soft, airy healing colours with a few clearer colours from the photo; a few handwritten notes may link fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-061 or asks for a visual diary page, scattered memory fragments or cut-paper Risograph collage from a photo."
 ---
 
 # XXD Panel 061

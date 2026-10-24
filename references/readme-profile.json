@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 061｜Visual Memory Notebook: reorganises a photo into three to six related memory fragments around one theme — the subject, a detail, a gesture, part of the setting or a symbol the photo suggests (sound as ripples, distance as a line, a feeling as a cloud) — in light, slightly naive cut paper, gouache, oil pastel and Risograph flat shapes, scattered with controlled improvisation over a near-white ground with wide whitespace, never in a grid. Soft, airy healing colours with a few clearer colours from the photo; a few handwritten notes may link fragments. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-061 or asks for a visual diary page, scattered memory fragments or cut-paper Risograph collage from a photo.",
+  "short_description": "视觉记忆簿：把照片拆成三到六个散落而彼此呼应的剪纸色块片段，像一页私人视觉日记",
+  "zh-CN": {
+    "name": "视觉记忆簿",
+    "tagline": "把照片重组成几块散落在纸面上、彼此呼应的视觉记忆片段。",
+    "look": "围绕一个主题，从照片里提炼三到六个片段：主体本身、一个局部、一个动作、一段环境，或由照片联想到的象征形，比如把声音画成波纹、距离画成一条线、情绪画成一朵云或一块光斑。造型是轻盈稚拙的剪纸、水粉、粉蜡和 Risograph、丝网式平涂，形体大胆概括，轮廓有手工误差。片段大小、角度、间距各不相同，散落在接近白色的浅色底上，留白很大，不用宫格，看似随手其实有隐藏的观看路径。颜色是柔和通透的治愈色：浅粉蓝、奶油白、灰绿、奶杏、腮红粉、柔桃，再留几处更清楚的原图颜色。文字像手写观察笔记，可以散在片段之间，甚至连起两个图形。",
+    "traits": [
+      "选择性记忆",
+      "3–6 个片段",
+      "剪纸色块",
+      "Risograph",
+      "即兴编辑排版",
+      "治愈色盘"
+    ],
+    "good": [
+      "有声音、动作或气味联想的生活场景：海边、早市、雨天的街、厨房里做饭",
+      "有好几个值得记住的细节的照片：一次野餐、一间书房、一段旅途",
+      "想做成手账页、私人日记、杂志随笔插图或分享合集封面的照片"
+    ],
+    "poor": [
+      "需要完整保留原图构图或写实细节的需求，这套风格会把照片拆成片段",
+      "只有一个简单主体、联想不出几个片段的照片：纯色背景证件照、单个产品白底图",
+      "想要整齐宫格、高饱和撞色、厚重复古滤镜或伪文字装饰的效果"
+    ]
+  },
+  "en": {
+    "name": "Visual Memory Notebook",
+    "tagline": "Reorganises your photo into a few scattered memory fragments that echo one another across the page.",
+    "look": "Around one theme, three to six fragments are drawn from the photo: the subject itself, a detail, a gesture, a piece of the setting, or a symbol the photo suggests, such as sound as ripples, distance as a line or a feeling as a cloud or a patch of light. They are made in light, slightly naive cut paper, gouache, oil pastel and Risograph or screen-print flat colour, with bold simplified shapes and small handmade wobbles in the outlines. The fragments differ in size, angle and spacing and are scattered over a near-white ground with wide whitespace, never in a grid, looking casual but following a hidden path for the eye. Colours are soft, airy and soothing, such as pale blue, cream, sage, apricot, blush pink and soft peach, with a few clearer colours kept from the photo. Text reads like handwritten observation notes and may sit between fragments or even link two of them.",
+    "traits": [
+      "Selective memory",
+      "Three to six fragments",
+      "Cut-paper colour shapes",
+      "Risograph",
+      "Improvised editorial layout",
+      "Soothing palette"
+    ],
+    "good": [
+      "Everyday scenes that call up sounds, movement or smells: the seaside, a morning market, a rainy street, cooking in a kitchen",
+      "Photos with several details worth remembering: a picnic, a study, a stretch of a trip",
+      "Photos for a journal page, a personal diary, a magazine essay illustration or the cover of a shared collection"
+    ],
+    "poor": [
+      "Requests to keep the original composition or realistic detail, since this style breaks the photo into fragments",
+      "Photos with one simple subject that suggest few fragments: ID photos on a plain backdrop, single products on white",
+      "Requests for a neat grid, saturated clashing colour, heavy vintage filters or decorative fake text"
+    ]
+  },
+  "ja": {
+    "name": "ビジュアル記憶帳",
+    "tagline": "写真を、紙の上に散らばって響き合ういくつかの視覚的な記憶のかけらに組み直します。",
+    "look": "一つのテーマを軸に、写真から三〜六のかけらを取り出します。主役そのもの、部分、仕草、周囲の一部、あるいは写真から連想した象徴の形。たとえば音を波紋に、距離を一本の線に、気持ちを雲や光の粒にします。形づくりは軽やかで素朴な切り紙、ガッシュ、オイルパステル、リソグラフやシルクスクリーン風のベタ塗りで、形は大胆にまとめ、輪郭には手作りの揺れがあります。かけらは大きさ、角度、間隔がそれぞれ違い、ほぼ白の淡い地に散らばって余白は大きく、格子には並べません。何気なく見えて、目の通り道がひそかに設計されています。色は柔らかく澄んだ癒しの色で、淡い青、生成り、セージ、杏色、ブラッシュピンク、柔らかなピーチに、写真のはっきりした色を少し残します。文字は手書きの観察メモのようで、かけらのあいだに散ったり、二つの形をつないだりします。",
+    "traits": [
+      "選びとった記憶",
+      "三〜六のかけら",
+      "切り紙の色面",
+      "リソグラフ",
+      "即興の編集レイアウト",
+      "癒しのパレット"
+    ],
+    "good": [
+      "音や動きや匂いを連想させる暮らしの場面：海辺、朝市、雨の通り、台所での料理",
+      "覚えておきたい細部がいくつもある写真：ピクニック、書斎、旅のひととき",
+      "手帳のページ、個人の日記、雑誌エッセイの挿絵、まとめ投稿の表紙にしたい写真"
+    ],
+    "poor": [
+      "元の構図や写実的な細部を残したい場合（このスタイルは写真をかけらに分けます）",
+      "主役が一つだけで、かけらを連想しにくい写真：無地背景の証明写真、白背景の単品の商品",
+      "きっちりした格子、高彩度の色のぶつかり、重いレトロフィルター、飾りの偽文字を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "시각 기억 노트",
+    "tagline": "사진을 종이 위에 흩어져 서로 울리는 몇 개의 시각적 기억 조각으로 다시 짭니다.",
+    "look": "하나의 주제를 중심으로 사진에서 세 개에서 여섯 개의 조각을 뽑아냅니다. 주인공 자체, 한 부분, 한 동작, 주변의 일부, 혹은 사진에서 떠올린 상징 형태로, 예를 들어 소리를 물결로, 거리를 한 줄의 선으로, 감정을 구름이나 빛 조각으로 그립니다. 조형은 가볍고 천진한 종이 오리기, 과슈, 오일 파스텔, 리소그래프나 실크스크린 같은 평면 채색이며, 형태는 과감하게 줄이고 윤곽에는 손맛의 흔들림이 있습니다. 조각들은 크기, 각도, 간격이 저마다 다르고, 거의 흰 연한 바탕 위에 넓은 여백을 두고 흩어지며 격자로 늘어놓지 않습니다. 아무렇게나 둔 듯 보여도 눈이 지나갈 길이 숨어 있습니다. 색은 부드럽고 맑은 힐링 색으로 연한 파랑, 크림색, 세이지, 살구색, 블러시 핑크, 소프트 피치에 사진의 또렷한 색을 몇 군데 남깁니다. 글자는 손으로 쓴 관찰 메모처럼 조각 사이에 흩어지거나 두 형태를 이어 주기도 합니다.",
+    "traits": [
+      "선택된 기억",
+      "3~6개의 조각",
+      "종이 오리기 색면",
+      "리소그래프",
+      "즉흥 편집 레이아웃",
+      "힐링 팔레트"
+    ],
+    "good": [
+      "소리나 움직임, 냄새가 떠오르는 생활 장면: 바닷가, 아침 시장, 비 오는 거리, 부엌에서 요리하기",
+      "기억할 만한 세부가 여러 개 있는 사진: 피크닉, 서재, 여행의 한 토막",
+      "다이어리 페이지, 개인 일기, 잡지 에세이 삽화, 모음 게시물 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "원래 구도나 사실적인 세부를 지켜야 하는 경우(이 스타일은 사진을 조각으로 나눕니다)",
+      "주인공이 하나뿐이라 조각을 떠올리기 어려운 사진: 단색 배경 증명사진, 흰 배경 단일 제품",
+      "반듯한 격자, 고채도 색 충돌, 무거운 빈티지 필터, 장식용 가짜 글자를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الذاكرة البصرية",
+    "tagline": "يعيد تنظيم صورتك في بضع شذرات ذاكرة متناثرة يتردد بعضها في بعض على الصفحة.",
+    "look": "حول فكرة واحدة تُستخرج من الصورة ثلاث إلى ست شذرات: الموضوع نفسه، أو تفصيل، أو إيماءة، أو جزء من المكان، أو رمز توحي به الصورة، كأن يصير الصوت تموجات والمسافة خطاً والشعور سحابة أو بقعة ضوء. تُصنع بورق مقصوص وغواش وباستيل زيتي وألوان مسطحة على طريقة الريزوغراف أو الطباعة الحريرية، خفيفة وفيها شيء من السذاجة، بأشكال مبسطة جريئة وارتعاشات يدوية صغيرة في الحدود. تختلف الشذرات في الحجم والزاوية والمسافات، وتتناثر على أرضية قريبة من الأبيض مع فراغ واسع، بلا شبكة، فتبدو عفوية لكنها تتبع مساراً خفياً للعين. الألوان ناعمة هوائية مريحة، كالأزرق الفاتح والكريمي والأخضر المريمي والمشمشي والوردي الخجول والخوخي الناعم، مع بضعة ألوان أوضح من الصورة. النص يشبه ملاحظات مراقبة مكتوبة باليد، وقد يقع بين الشذرات أو يصل بين اثنتين منها.",
+    "traits": [
+      "ذاكرة انتقائية",
+      "ثلاث إلى ست شذرات",
+      "أشكال لونية من الورق المقصوص",
+      "ريزوغراف",
+      "تنضيد تحريري عفوي",
+      "ألوان مريحة"
+    ],
+    "good": [
+      "مشاهد يومية تستدعي أصواتاً أو حركة أو روائح: الشاطئ، سوق الصباح، شارع ممطر، الطبخ في المطبخ",
+      "صور فيها عدة تفاصيل تستحق التذكر: نزهة، غرفة مكتب، جزء من رحلة",
+      "صور لصفحة مفكرة أو يوميات شخصية أو رسم لمقالة في مجلة أو غلاف مجموعة صور تشاركها"
+    ],
+    "poor": [
+      "طلب الاحتفاظ بتكوين الصورة الأصلي أو تفاصيلها الواقعية، لأن الأسلوب يفكك الصورة إلى شذرات",
+      "صور فيها موضوع واحد بسيط لا يوحي بشذرات كثيرة: صور هوية على خلفية سادة، منتج منفرد على خلفية بيضاء",
+      "طلب شبكة منتظمة أو ألوان مشبعة متصادمة أو مرشحات عتيقة ثقيلة أو نصوص زائفة للزينة"
+    ]
+  }
+}
